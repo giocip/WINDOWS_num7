@@ -11,7 +11,7 @@ for educational school, web e-commerce developing, accounting apps and general m
 
 ## Installation C++ num7.h and num7.cpp header files
 
-### Create a directory on your Android system and
+### Create a directory on your Windows PC and
 
 - With your favourite editor create num7.h and num7.cpp file and copy it along with your c++ app.cpp file in that same folder
 
