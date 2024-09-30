@@ -16,7 +16,7 @@ namespace num7 {          // STARTING CURLY BRACKET num7 namespace
 
     /// COMMON DATA TYPE
     //class NUM;
-    extern int Error; //ERROR HANDLING
+    int Error = 0;    //GLOBAL VARIABLE ERROR HANDLING  => num7.cpp
 
     //////////////////////////////////////////////// NUM IN-LINE FUNCTIONS /////////////////////////////////////////////////
 
