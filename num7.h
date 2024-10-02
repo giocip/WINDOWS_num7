@@ -1,7 +1,7 @@
 /** DEVELOPED ON AMD Ryzen 5 Mobile 3550H 16GB DDR4 DRAM AND WINDOWS 10 */
 
 /**
- * @file   num7.cpp
+ * @file   num7.h
  * @author Giovanni Cipriani <giocip7@gmail.com>
  * @date   2024
  * @brief  num7 ISO C++14 Standard 64-BIT LIBRARY, ARBITRARY-PRECISION GENERAL PURPOSE ARITHMETIC-LOGIC DECIMAL CLASS FOR WINDOWS
